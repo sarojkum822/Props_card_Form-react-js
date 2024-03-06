@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 
 
 In this we have learnt about props for data sending to child from parent component and used FORM validation for sending data into the parent component, storing it to hooks and then rendering it to the web page.
+
+![Uploading image.png…]()
